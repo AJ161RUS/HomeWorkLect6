@@ -1,0 +1,15 @@
+D:\HomeWork7\Task42\bin\Debug\net7.0\Task42.exe
+D:\HomeWork7\Task42\bin\Debug\net7.0\Task42.deps.json
+D:\HomeWork7\Task42\bin\Debug\net7.0\Task42.runtimeconfig.json
+D:\HomeWork7\Task42\bin\Debug\net7.0\Task42.dll
+D:\HomeWork7\Task42\bin\Debug\net7.0\Task42.pdb
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.csproj.AssemblyReference.cache
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.AssemblyInfoInputs.cache
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.AssemblyInfo.cs
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.csproj.CoreCompileInputs.cache
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.dll
+D:\HomeWork7\Task42\obj\Debug\net7.0\refint\Task42.dll
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.pdb
+D:\HomeWork7\Task42\obj\Debug\net7.0\Task42.genruntimeconfig.cache
+D:\HomeWork7\Task42\obj\Debug\net7.0\ref\Task42.dll
